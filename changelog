@@ -1,9 +1,7 @@
-[ANNOUCEMENT]Lütfen discorddaki #metalix kanalini kontrol edin
-[*]Fixed Disable KillAura Problem
-[*]Fixed KillAura Ban Problem
-[*]New Fly Soon
-[+]CustomModel
-[+]AutoFish
-[+]LongJump
-[+]Tracers
-[+]TPAura
+[+]KillAura Sort Methods [Distance,Health]
+[+]KillAura Silent Rotations Option
+[+]Fly Modes [Motion,Vanilla]
+[+]Strafe GroundCheck Option
+[+]Changed Watermark
+[+]Readded Reach
+[+]TPAura fixed
